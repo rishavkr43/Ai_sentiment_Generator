@@ -1,0 +1,20 @@
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+.Python
+build/
+dist/
+*.egg-info/
+# IDEs / editor
+.vscode/
+.idea/
+# OS
+.DS_Store
+# dotenv
+.env
+
+
